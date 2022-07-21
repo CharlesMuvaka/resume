@@ -1,0 +1,113 @@
+.fa-solid{
+    color: rgb(102, 102, 245);
+}
+h3{
+    font-weight: bolder;
+}
+
+.image2{
+    height: 300px;
+    width: 200px;
+    background-image: url("../images/getBusy.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    background-position: top center;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: -3px 3px 1px grey;
+}
+
+.image1{
+    height: 250px;
+    width: 200px;
+    margin-right: -10px;
+    background-image: url(../images/IMG_4013.PNG);
+    background-size: cover;
+    background-position: top center;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: -3px 3px 1px grey;
+}
+
+.image3{
+    height: 250px;
+    width: 200px;
+    background-image: url("../images/property.jpg");
+    background-size: cover;
+    background-position: top center;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 3px 3px 1px grey;
+}
+.yes{
+    width: 65%;
+}
+.links{
+    width: 25%;
+}
+.images{
+    width: 70%;
+}
+.span3{
+    font-size: 12px;
+}
+
+.container{
+    width: 74%;
+    background-color: #f1ecec;
+    border-radius: 7px 7px 7px 7px;
+
+}
+.profile{
+    height: 80px;
+}
+.span1{
+    font-size: 12px;
+    font-style: italic;
+    color: maroon;
+}
+.span2{
+    font-size: 15px;
+}
+.moringa img, .tuk img, .semi img, .equity img{
+    float: right;
+    height: 70px;
+    width: 100px;
+    border: 1px solid grey;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 3px 3px 1px grey;
+}
+
+.education, .side1{
+    width: 70%;
+}
+.refs{
+    width: 25%!important;
+}
+.refs li{
+    font-size: 15px;
+    font-weight: bold;
+}
+.refs ol p{
+    font-size: 13px;
+}
+h3, h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
+}
+.dates{
+    font-family: 'Roboto', sans-serif;
+}
+
+h5{
+    color: blue;
+}
+.head1{
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.side2 ul li{
+    list-style-type: circle;
+}
+.side2 p{
+    color: maroon;
+}
