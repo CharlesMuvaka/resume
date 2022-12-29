@@ -1,3 +1,6 @@
+body{
+    font-size: 16px;
+}
 .fa-solid{
     color: rgb(102, 102, 245);
 }
@@ -6,19 +9,19 @@ h3{
 }
 
 .image2{
-    height: 300px;
-    width: 200px;
+    height: 200px;
+    width: 100px;
     background-image: url("../images/getBusy.jpg");
     background-size: cover;
     border: 1px solid grey;
-    background-position: top center;
+    background-position: center center;
     border-radius: 7px 7px 7px 7px;
     box-shadow: -3px 3px 1px grey;
 }
 
 .image1{
-    height: 250px;
-    width: 200px;
+    height: 150px;
+    width: 100px;
     margin-right: -10px;
     background-image: url(../images/IMG_4013.PNG);
     background-size: cover;
@@ -28,8 +31,8 @@ h3{
 }
 
 .image3{
-    height: 250px;
-    width: 200px;
+    height: 150px;
+    width: 100px;
     background-image: url("../images/property.jpg");
     background-size: cover;
     background-position: top center;
@@ -39,18 +42,25 @@ h3{
 .yes{
     width: 65%;
 }
-.links{
-    width: 25%;
+.links, .details{
+    width: 28%;
 }
 .images{
     width: 70%;
 }
+.images3{
+    width: 30%;
+}
+.images2 p,.images2 li, .text-end, .col-md-4 ol p{
+    font-size: 13px;
+}
+
 .span3{
     font-size: 12px;
 }
 
 .container{
-    width: 74%;
+    width: 88%;
     background-color: #f1ecec;
     border-radius: 7px 7px 7px 7px;
 
@@ -59,7 +69,7 @@ h3{
     height: 80px;
 }
 .span1{
-    font-size: 12px;
+    font-size: 14px;
     font-style: italic;
     color: maroon;
 }
@@ -79,7 +89,7 @@ h3{
     width: 70%;
 }
 .refs{
-    width: 25%!important;
+    width: 28%!important;
 }
 .refs li{
     font-size: 15px;
