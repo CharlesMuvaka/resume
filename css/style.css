@@ -1,5 +1,6 @@
 body{
     font-size: 16px;
+    background-color: white;
 }
 .fa-solid{
     color: rgb(102, 102, 245);
@@ -189,7 +190,7 @@ h3{
     width: 28%!important;
 }
 .refs li{
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
 }
 .refs ol p{
